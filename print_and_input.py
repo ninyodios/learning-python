@@ -1,6 +1,4 @@
-#!/usr/bin/python3
-
-# Print
+### Print
 
 #%s string
 #%d interger
@@ -22,7 +20,7 @@ print ("hello %s, are you %d years old?" % (name, y))
 print ("Success percentage is: %f " %z)
 print ("Success percentage is: %.3f " %z)
 
-# Input
+### Input
 
 value = input ("Insert some value:")
 print (value) # this will return a string

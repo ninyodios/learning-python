@@ -1,7 +1,6 @@
-#!/usr/bin/python3
 
-# VAriable types
-# string = 
+# Variable types
+# string
 # int
 # float
 
@@ -12,7 +11,6 @@
 # list. A list contains items separated by commas and enclosed within square brackets
 # tuple. A tuple consists of a number of values separated by commas. Unlike lists, however, tuples are enclosed within parentheses. Tuples can be thought of as read-only lists
 # dictionary. kind of hash table type.
-
 
 # Varibalbe definiition
 myString = "hello world"
