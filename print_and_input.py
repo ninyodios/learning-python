@@ -3,6 +3,7 @@
 #%s string
 #%d interger
 #%f floating
+#%b boolean ?¿
 
 x = 10
 y = 50
