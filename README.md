@@ -1,11 +1,11 @@
 # Learning python
 Python concepts and examples for reference
 
-# Sections
+## Sections
 Contains sections and examples as it was a course
 
-# Practices
+## Practices
 Contains exercises 
 
-# Concepts
+## Concepts
 Concepts that requires some development and content
