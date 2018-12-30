@@ -1,10 +1,15 @@
 #!/usr/local/bin/python3
 
-# Atom | To run the script, use CMD+I
+# https://www.codewars.com/kata/alien-accent/train/python
 
-def array_diff(a, b):
-    b = set(b)
-    print(list(item for item in a if item not in b))
-    return(list(item for item in a if item not in b))
+def convert(st):
+    st = (st.replace("o","u"))
+    st = (st.replace("a","o"))
+    return(print(st))
 
-array_diff([1,2,2],[1] )  # shoult return [2,2]
+convert("hello")
+
+def convert2(st):
+    return(print(st.replace('o','u').replace('a','o')))
+
+convert2("hello")
